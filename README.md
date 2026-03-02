@@ -1,6 +1,6 @@
-# COREX - AI Terminal Chat (Arcee Trinity Edition)
+# COREX - AI Terminal Gateway
 
-Your AI companion, powered by Arcee Trinity, one command away.
+Use another provider API key, use what you pay.
 
 ## Install
 
@@ -10,22 +10,15 @@ Your AI companion, powered by Arcee Trinity, one command away.
 
     corex
 
-That is it.
-
 ## Requirements
 
 - Node.js 18 or higher
 - Arcee API key from arcee.ai
 
-## Models
-
-- **Trinity Nano**: Fast, low latency, 128k context.
-- **Trinity Mini**: Balanced, recommended for production, 128k context.
-- **Trinity Large**: Most powerful reasoning, 512k context.
 
 ## Commands
 
-    /clear    Clear conversation
+    /config   Change the API key,model
     /model    Switch AI model
     /theme    Change color theme
     /save     Save chat to file
@@ -36,4 +29,4 @@ That is it.
 
     ~/.config/corex/config.json
 # Corex-AI-TERMINAL-CLI
-# Corex-AI-TERMINAL-CLI
+
