@@ -4,7 +4,11 @@ Use another provider API key, use what you pay.
 
 ## Install
 
-    npm install -g corex-ai
+   npm install -g @corexaigateway/corex-cli
+
+##  Temporarily deletes automatically after install.
+
+   npx @corexaigateway/corex-cli
 
 ## Launch
 
