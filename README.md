@@ -36,3 +36,4 @@ That is it.
 
     ~/.config/corex/config.json
 # Corex-AI-TERMINAL-CLI
+# Corex-AI-TERMINAL-CLI
