@@ -1,5 +1,5 @@
 {
-  "name": "@corex/corex-cli",
+  "name": "corex-cli",
   "version": "1.0.0",
   "description": "COREX CLI — powerful AI terminal",
   "type": "module",
