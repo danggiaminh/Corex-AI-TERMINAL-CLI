@@ -1,6 +1,6 @@
 {
   "name": "corex-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "COREX CLI — powerful AI terminal",
   "type": "module",
   "bin": {
